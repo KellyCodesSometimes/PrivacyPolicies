@@ -32,7 +32,7 @@ Serve advertisements through AdMob
 
 4. AdMob and Advertising
 
-We use AdMob, a third-party advertising service provided by Google, to serve ads in our Game. AdMob may collect and use information about your device and your interactions with ads. AdMob's use of your information is governed by its own privacy policy, which you can review here: AdMob Privacy Policy.
+We use AdMob, a third-party advertising service provided by Google, to serve ads in our Game. AdMob may collect and use information about your device and your interactions with ads. AdMob's use of your information is governed by its own privacy policy, which you can review: AdMob Privacy Policy.
 
 5. Data Sharing and Disclosure
 
